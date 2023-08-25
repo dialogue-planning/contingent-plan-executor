@@ -6,7 +6,6 @@ json2html
 jsonpickle
 nltk
 spacy
-tensorflow==2.12.*
 textblob
 graphviz
 docker
